@@ -1,6 +1,3 @@
-1. Visit my public repository :
-https://github.com/pe-golez/portfolio
-
 ## Instructions
 1. Clone the repository in your local computer **using HTTPS** via this command. git clone https://github.com/pe-golez/portfolio.git
 
